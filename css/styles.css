@@ -1,0 +1,28 @@
+/* line 1, E:/Documents/CollectionP.github.io/css/styles.sass */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 95vh;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 2rem; }
+  /* line 13, E:/Documents/CollectionP.github.io/css/styles.sass */
+  .wrapper h1,
+  .wrapper h2 {
+    text-align: center; }
+
+/* line 16, E:/Documents/CollectionP.github.io/css/styles.sass */
+#dark_theme {
+  background-color: #000;
+  color: #fff;
+  text-align: center; }
+  /* line 21, E:/Documents/CollectionP.github.io/css/styles.sass */
+  #dark_theme a {
+    text-decoration: none;
+    color: #00ff1d; }
+    /* line 25, E:/Documents/CollectionP.github.io/css/styles.sass */
+    #dark_theme a:hover {
+      color: rgba(0, 255, 29, 0.7); }
+
+/*# sourceMappingURL=styles.css.map */
